@@ -2,6 +2,10 @@
 
 % LW and JZ notes for local sleep detection in MEG
 
+With many thanks to existing code from https://github.com/andrillon aimed at EEG data!!!  Thank you Thomas Andrillon! 
+We have adapted that code to work with MEG (not EEG) data.
+
+
 %%%%%
 % preprocessing overview - do this yourself or using your own preferred preprocessing.  This is an outline of what we have done.
 %%%%%%

@@ -3,7 +3,7 @@
 % LW and JZ notes for local sleep detection in MEG
 
 %%%%%
-% preprocessing overview
+% preprocessing overview - do this yourself or using your own preferred preprocessing.  This is an outline of what we have done.
 %%%%%%
 
 % 1 - maxfilter - used on Elekta MEGIN data
